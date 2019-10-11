@@ -3,7 +3,7 @@
 </p>
 
 # Project Vibranium 🔥
-This awesome Progressive Web App was created for Developer Student Clubs in Sub Saharan Africa as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
+This awesome Progressive Web App was created for Developer Student Clubs in Sub-Saharan Africa as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
 
 
 ![](https://img.shields.io/badge/Built%20by-DSC%20Sub%20Saharan%20Africa-brightgreen.svg)
